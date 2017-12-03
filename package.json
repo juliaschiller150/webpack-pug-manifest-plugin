@@ -1,0 +1,22 @@
+{
+  "name": "webpack-pug-manifest-plugin",
+  "version": "0.0.1",
+  "description": "Webpack plugin that outputs script tags into a pug formatted file",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcschiller/webpack-pug-manifest-plugin"
+  },
+  "keywords": [
+    "webpack",
+    "pug",
+    "manifest",
+    "plugin"
+  ],
+  "author": "TC Schiller (https://www.tcschiller.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcschiller/webpack-pug-manifest-plugin/issues"
+  },
+  "homepage": "https://github.com/tcschiller/webpack-pug-manifest-plugin#readme"
+}
