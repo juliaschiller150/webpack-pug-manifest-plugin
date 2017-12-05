@@ -37,6 +37,10 @@ script(type="text/javascript" src="bundle2.81f9d53c7o476155833d.js")
 
 ## Options
 
+### `Filter`
+Type: `function`\
+Effect: Filters assets by bundle name (including file extension).
+
 ### `Sort`
 Type: `function`\
 Effect: Sorts script tags by bundle name. Useful to ensure `runtime` or `vendor` bundles are included first, as required by webpack.
